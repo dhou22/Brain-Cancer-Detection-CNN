@@ -29,7 +29,8 @@ Using state-of-the-art **Deep Learning** models, this project aims to:
 - **Model Architecture**: **Convolutional Neural Network (CNN)** - A powerful architecture for image analysis.
 - **Image Type**: **MRI Scans** - A common imaging modality for brain tumor detection.
 
-![image](https://github.com/user-attachments/assets/36b1e7c6-ee0a-4991-9e93-c2317fe4d245)
+![image](https://github.com/user-attachments/assets/042014cd-67e0-42d1-8102-2d89854195a3)
+
 
 
 ### Research Objectives
