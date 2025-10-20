@@ -1,11 +1,10 @@
 
-# Brain Tumor Classification using Deep Learning and PyTorch
+# Brain Tumor Classification using Deep Learning 
 ----
 ![image](https://github.com/user-attachments/assets/746c067f-3b9a-46bb-8165-a6d9d0c7ebbe)
 
 ----
 
-# Brain Tumor Classification using Deep Learning and PyTorch
 <div align="center">
     
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
