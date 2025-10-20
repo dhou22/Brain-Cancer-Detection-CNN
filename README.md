@@ -38,7 +38,7 @@ Using state-of-the-art **Deep Learning** models, this project aims to:
 2. **Achieve high accuracy** in classifying multiple tumor types (e.g., glioma, meningioma, pituitary tumor).
 3. **Reduce diagnostic time** and provide support for clinicians.
 
-## 🔬 Methodology
+## Methodology
 
 ### Data Processing Workflow
 1. **Data Exploration**: Conducting in-depth analysis to understand data patterns, missing values, and distribution.
