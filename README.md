@@ -1,12 +1,12 @@
 
-# 🧠 Brain Tumor Classification using Deep Learning and PyTorch
+# Brain Tumor Classification using Deep Learning and PyTorch
 
 ![image](https://github.com/user-attachments/assets/746c067f-3b9a-46bb-8165-a6d9d0c7ebbe)
 
 
 
 
-## 🚀 Project Overview
+## Project Overview
 
 ### Motivation
 Brain tumor detection and classification is one of the most challenging areas in medical imaging. Traditional methods often suffer from:
@@ -22,7 +22,7 @@ Using state-of-the-art **Deep Learning** models, this project aims to:
 - **Classify tumor types** with high precision
 - **Improve diagnostic speed** and reduce human intervention
 
-## 🧬 Medical Imaging & Deep Learning
+## Medical Imaging & Deep Learning
 
 ### Key Technologies
 - **Framework**: [PyTorch](https://pytorch.org/) - A leading framework for deep learning.
@@ -55,7 +55,7 @@ Using state-of-the-art **Deep Learning** models, this project aims to:
 - **Max Pooling**: Use max pooling to reduce dimensionality while preserving critical features.
 - **Feature Extraction**: Convolutional layers automatically extract relevant features from raw images.
 
-## 🚀 Key Features
+## Key Features
 - **Automated MRI scan analysis**: AI-driven system to classify tumor types.
 - **Multi-class classification**: Detect and classify various tumor types.
 - **Computational efficiency**: Designed to be fast and resource-efficient.
@@ -64,13 +64,13 @@ Using state-of-the-art **Deep Learning** models, this project aims to:
 ![image](https://github.com/user-attachments/assets/8daa2dcd-514f-4592-acb4-26fd725783be)
 
 
-## 🎯 Expected Outcomes
+## Expected Outcomes
 - **Improved diagnostic accuracy**: Reducing human error in detecting brain tumors.
 - **Faster medical image processing**: Speeding up the diagnosis and treatment planning.
 - **Reduced human bias**: Delivering consistent results in tumor classification.
 - **Support for healthcare professionals**: Assisting clinicians in accurate decision-making.
 
-## 📊 Performance Metrics
+## Performance Metrics
 To evaluate the performance of the model, the following metrics are used:
 - **Accuracy**: Overall correctness of the model’s predictions.
 - **Precision**: The proportion of true positive predictions.
@@ -80,13 +80,13 @@ To evaluate the performance of the model, the following metrics are used:
 ![image](https://github.com/user-attachments/assets/13c2311e-6849-44b4-9178-21765b157393)
 
 
-## 🔍 Potential Applications
+## Potential Applications
 - **Neuro-oncology**: Use in clinical settings to assist oncologists in tumor detection and treatment planning.
 - **Radiology departments**: Enhancing the workflow of radiologists by automating classification.
 - **Clinical Decision Support Systems**: AI-powered tools that provide support for clinicians in diagnosing brain tumors.
 - **Medical Research**: Facilitating further research on brain tumor types and AI models for medical imaging.
 
-## 🛠 Requirements
+## Requirements
 To run this project, the following packages are required:
 - **Python 3.8+**
 - **PyTorch** (Deep learning framework)
@@ -95,7 +95,7 @@ To run this project, the following packages are required:
 - **Matplotlib** (Data visualization)
 - **scikit-learn** (For model evaluation)
 
-## 📦 Installation
+## Installation
 
 ### Clone the repository and install dependencies:
 ```bash
@@ -104,7 +104,7 @@ cd brain-tumor-classifier
 pip install -r requirements.txt
 ```
 
-## 🧪 Usage
+## Usage
 
 ### Training the Model
 Train the model using the following command:
@@ -140,19 +140,19 @@ prediction = torch.argmax(output, dim=1)
 print(f"Predicted tumor type: {prediction.item()}")
 ```
 
-## 📅 Milestones
+## Milestones
 
 - **Phase 1**: Data collection and preprocessing (Completed)
 - **Phase 2**: Model training and optimization (In progress)
 - **Phase 3**: Evaluation and real-world testing (Upcoming)
 
-## 📝 License
+## License
 MIT license 
 
-## 🤝 Contributing
+## Contributing
 We welcome contributions! If you'd like to help with the project, please fork the repository, submit issues, or create pull requests.
 
-## 📬 Contact
+## Contact
 For questions or feedback, reach out to:
 - **Email**: [dhouha.meliane@esprit.tn]
 - **LinkedIn**: [https://www.linkedin.com/in/dhouha-meliane/]
