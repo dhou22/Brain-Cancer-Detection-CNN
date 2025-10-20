@@ -352,7 +352,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or feedback, reach out to:
 - **Email**: [dhouha.meliane@esprit.tn](mailto:dhouha.meliane@esprit.tn)
 - **LinkedIn**: [https://www.linkedin.com/in/dhouha-meliane/](https://www.linkedin.com/in/dhouha-meliane/)
-- **GitHub**: [@your-username](https://github.com/your-username)
+- **GitHub**: [@your-username](https://github.com/dhou22)
 
 ---
 
@@ -362,9 +362,6 @@ For questions or feedback, reach out to:
 
 2. Deepak, S., & Ameer, P. M. (2019). Brain tumor classification using deep CNN features via transfer learning. *Computers in Biology and Medicine*, 111, 103345.
 
-3. Cheng, J., Huang, W., Cao, S., Yang, R., Yang, W., Yun, Z., ... & Feng, Q. (2017). Enhanced Performance of Brain Tumor Classification via Tumor Region Augmentation and Partition. *PLoS ONE*, 12(10), e0187149.
-
-4. Saha, A., Harowicz, M. R., Grimm, L. J., Kim, C. E., Ghate, S. V., Walsh, R., & Mazurowski, M. A. (2021). A machine learning approach to radiogenomics of breast cancer: a study of 922 subjects and 529 DCE-MRI features. *British Journal of Cancer*, 119(4), 508-516.
 
 ---
 
